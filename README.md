@@ -568,28 +568,10 @@ CORS_ORIGIN=
 - `CLIENT_URL` and `CORS_ORIGIN` define allowed frontend origins for backend requests.
 - MailHog variables are mainly used for local email testing and development workflows.
 
-## ▶️ Running Locally
+## Source Code Access
 
-To run the project locally, clone the repository, install dependencies, configure environment variables, and start the services with Docker Compose.
-
-```bash
-git clone https://github.com/onyil44/stock_tracking.git
-cd stock_tracking
-```
-
-Create a `.env` file based on the `.env.example` structure:
-
-```bash
-cp .env.example .env
-```
-
-Start the application:
-
-```bash
-docker compose up --build
-```
-
-After the services are running, the application can be accessed through the configured local frontend and backend ports.
+The source code is private.  
+For technical review, access can be provided upon request.
 
 ### Local Development Notes
 
@@ -761,5 +743,6 @@ I have a project management and finance background with hands-on full-stack soft
 This project is shared publicly as a portfolio project.
 
 All rights are reserved unless otherwise stated.  
-The source code is available for review and demonstration purposes only.  
-Please do not copy, redistribute, or use this project commercially without permission.
+The source code is private. Access may be shared upon request for technical review.
+This repository is a public showcase repository that includes project documentation, screenshots, and live demo information.  
+The production source code is kept private because the project is actively maintained and contains production-oriented architecture decisions.
