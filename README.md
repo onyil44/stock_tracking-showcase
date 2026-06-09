@@ -11,6 +11,14 @@
   <img src="https://img.shields.io/badge/Docker-Compose-2496ed?logo=docker&logoColor=white" />
 </p>
 
+## ⚡ At a Glance
+
+- 🧩 Full-stack ERP-style inventory and warehouse management MVP
+- 🛠️ Built with React, TypeScript, Node.js, Express, Prisma, PostgreSQL and Docker
+- 🔐 Includes RBAC, user management, warehouse management, products, stock balances, stock movements and dashboard reporting
+- 🚀 Live VPS deployment with separate frontend and backend services
+- 🔒 Source code is private; demo and technical overview are public
+
 ## 🏢 Project Overview
 
 Stock Tracking / ERP Resource Management MVP is a full-stack ERP-style inventory and warehouse management system built to demonstrate real-world business workflows.
